@@ -48,6 +48,10 @@ The CSV output includes information such as:
 
 - `main.py` — Main detection, tracking, segmentation, and speed estimation code
 - `speeds_sample.csv` — Sample output results
+## Sample Output Video
+
+Sample output video file:
+[output_speed.mp4](output_speed.mp4)
 
 ## Installation
 
